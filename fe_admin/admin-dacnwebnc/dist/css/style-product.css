@@ -1,0 +1,19 @@
+.card-body {
+  border: 5px solid red;
+
+  overflow: auto;
+}
+table,
+th,
+td {
+  border: 1px solid #ccc;
+}
+table {
+  border-collapse: collapse;
+  width: 25% !important;
+}
+th,
+td {
+  text-align: left;
+  padding: 10px;
+}
